@@ -1,0 +1,13 @@
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\bin\Debug\netcoreapp3.1\SWGANH-WorldServer.exe
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\bin\Debug\netcoreapp3.1\SWGANH-WorldServer.deps.json
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\bin\Debug\netcoreapp3.1\SWGANH-WorldServer.runtimeconfig.json
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\bin\Debug\netcoreapp3.1\SWGANH-WorldServer.runtimeconfig.dev.json
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\bin\Debug\netcoreapp3.1\SWGANH-WorldServer.dll
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\bin\Debug\netcoreapp3.1\SWGANH-WorldServer.pdb
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\obj\Debug\netcoreapp3.1\SWGANH-WorldServer.csprojAssemblyReference.cache
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\obj\Debug\netcoreapp3.1\SWGANH-WorldServer.AssemblyInfoInputs.cache
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\obj\Debug\netcoreapp3.1\SWGANH-WorldServer.AssemblyInfo.cs
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\obj\Debug\netcoreapp3.1\SWGANH-WorldServer.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\obj\Debug\netcoreapp3.1\SWGANH-WorldServer.dll
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\obj\Debug\netcoreapp3.1\SWGANH-WorldServer.pdb
+C:\Users\johnr\Documents\GitHub\SWGANH-WorldServer\obj\Debug\netcoreapp3.1\SWGANH-WorldServer.genruntimeconfig.cache
